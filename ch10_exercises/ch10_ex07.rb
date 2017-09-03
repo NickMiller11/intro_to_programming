@@ -1,0 +1,2 @@
+# an array is an ordered list of elements with each element associated with a numerical index
+# a hash is an unordered list of paired keys and values where each key or value can be referenced by the other
