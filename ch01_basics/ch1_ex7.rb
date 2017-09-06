@@ -1,0 +1,1 @@
+# 7. The error message means that the user tried to close a hash with a parentheses instead of a curly brace
